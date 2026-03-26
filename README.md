@@ -1,18 +1,13 @@
 # Hi, I'm Minh Quan Tran 👋
 
-Master of Information Technology student • Graduating end of 2025  
-Open to internships and graduate roles
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-minhquantran-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mq-tran/)
 [![Email](https://img.shields.io/badge/Email-tranminhquan26012002%40gmail.com-red?logo=gmail&logoColor=white)](mailto:tranminhquan26012002@gmail.com)
 
 ---
 
 ## About me
-- 🎓 Master of IT candidate (graduating end of 2025)
 - 🧩 Enjoy building frontends with Vue + TypeScript and exploring backend development with C# and ASP.NET
 - 🚀 Currently improving: Vue 3 patterns, Pinia best practices, and ASP.NET Web APIs
-- 🤝 Open to internships and graduate roles
 
 ---
 
