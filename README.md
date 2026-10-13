@@ -20,9 +20,10 @@ A focused web app to track working hours (shifts) and calculate weekly income.
 - 🔐 Authentication & Authorization: Azure AD B2C
 
 Links:
-- Live demo (Payment Calculator): https://payment-calculator-mqtran.netlify.app/
-- Frontend repo: https://github.com/MinhQuan-Tran/ShiftPay
-- Backend repo: https://github.com/MinhQuan-Tran/ShiftPay_Backend
+- Live demo (ShiftPay): [https://payment-calculator-mqtran.netlify.app/](https://shiftpay-mqtran.netlify.app/)
+- Document repo: [https://github.com/MinhQuan-Tran/ShiftPay_Document](https://github.com/MinhQuan-Tran/ShiftPay_Document)
+- Frontend repo: [https://github.com/MinhQuan-Tran/ShiftPay](https://github.com/MinhQuan-Tran/ShiftPay_Frontend)
+- Backend repo: [https://github.com/MinhQuan-Tran/ShiftPay_Backend](https://github.com/MinhQuan-Tran/ShiftPay_Backend)
 
 ---
 
@@ -36,8 +37,8 @@ Links:
 ---
 
 ## Get in touch
-- 🔗 LinkedIn: https://www.linkedin.com/in/mq-tran/
-- 📧 Email: tranminhquan26012002@gmail.com
+- 🔗 LinkedIn: [https://www.linkedin.com/in/mq-tran/](https://www.linkedin.com/in/mq-tran/)
+- 📧 Email: [tranminhquan26012002@gmail.com](mailto:tranminhquan26012002@gmail.com)
 
 ---
 
