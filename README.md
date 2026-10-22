@@ -1,10 +1,10 @@
 # Hi, I'm Minh Quan Tran 👋
 
-I enjoy building frontends with Vue and TypeScript, and exploring backend development with C# and ASP.NET. This repository brings together my background and projects so you can browse them yourself or ask your AI about me.
+There is no single, simple response to "Tell me about yourself". That's why I created this repository—to let you ask your AI about me directly.
 
 ## Ask your AI about me
 
-Copy the prompt below into an AI that can open GitHub links. If yours cannot, use **Browse yourself** below.
+Copy the prompt below into an AI that can open GitHub links. If yours cannot, **Browse yourself** below.
 
 <details>
 <summary><strong>Copy the starter prompt</strong></summary>
@@ -48,5 +48,3 @@ The prompt guides your AI to the sources; automatic discovery or a complete scan
 | Find a specific answer | [FAQ](https://github.com/MinhQuan-Tran/MinhQuan-Tran/blob/main/content/faq/README.md) · [Full content index](https://github.com/MinhQuan-Tran/MinhQuan-Tran/blob/main/content/README.md) |
 
 **Get in touch → [Contact](https://github.com/MinhQuan-Tran/MinhQuan-Tran/blob/main/content/working-with-me/README.md#contact)**
-
-Last reviewed: 2026-10-22 · [Source and freshness](https://github.com/MinhQuan-Tran/MinhQuan-Tran/blob/main/content/README.md#source-and-freshness)
