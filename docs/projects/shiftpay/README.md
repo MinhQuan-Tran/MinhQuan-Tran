@@ -1,4 +1,4 @@
-[Home](../../../README.md) · [Content](../../README.md) · [Projects](../README.md)
+[Home](../../../README.md) · [Docs](../../README.md) · [Projects](../README.md)
 
 # ShiftPay
 
@@ -45,7 +45,7 @@ The [frontend](https://github.com/MinhQuan-Tran/ShiftPay_Frontend), [backend](ht
 <details>
 <summary>Lessons learned</summary>
 
-Personal reflections and specific lessons from ShiftPay have not yet been documented. You can [contact me](../../working-with-me/README.md#contact) to discuss the project.
+Personal reflections and specific lessons from ShiftPay have not yet been documented. You can [contact me](../../../README.md#contact) to discuss the project.
 
 </details>
 
@@ -62,4 +62,4 @@ Personal reflections and specific lessons from ShiftPay have not yet been docume
 
 This case study reorganizes the ShiftPay information in the [profile README updated on 2026-10-13](https://github.com/MinhQuan-Tran/MinhQuan-Tran/blob/776cf2028f3f11af77f62d2e4e54643bbc8a797f/README.md#featured-project--shiftpay). It does not add unrecorded project results or personal claims.
 
-Last reviewed: 2026-10-22. See the [content index](../../README.md) for review and source conventions.
+Last reviewed: 2026-10-22. See the [docs index](../../README.md) for review and source conventions.

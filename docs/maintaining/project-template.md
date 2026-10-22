@@ -1,15 +1,15 @@
-[Home](../../README.md) · [Content](../README.md) · [Maintaining](README.md)
+[Home](../../README.md) · [Docs](../README.md) · [Maintaining](README.md)
 
 # Project template
 
 **Template only.** Placeholder fields below are not facts about Minh Quan or a real project.
 
-Copy the block to `content/projects/project-slug/README.md`. Replace all uppercase fields with confirmed information, remove unused fields, and describe genuinely missing details as not documented. Link evidence you have checked and distinguish completed work from plans.
+Copy the block to `docs/projects/project-slug/README.md`. Replace all uppercase fields with confirmed information, remove unused fields, and describe genuinely missing details as not documented. Link evidence you have checked and distinguish completed work from plans.
 
-The breadcrumbs below fit that destination. Adjust them if you choose a different depth. Add the new page to the [project index](../projects/README.md) and [complete content index](../README.md).
+The breadcrumbs below fit that destination. Adjust them if you choose a different depth. Add the new page to the [project index](../projects/README.md) and [complete docs index](../README.md).
 
 ````markdown
-[Home](../../../README.md) · [Content](../../README.md) · [Projects](../README.md)
+[Home](../../../README.md) · [Docs](../../README.md) · [Projects](../README.md)
 
 # PROJECT_NAME
 

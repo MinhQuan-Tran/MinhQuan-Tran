@@ -1,4 +1,4 @@
-[Home](../../README.md) · [Content](../README.md)
+[Home](../../README.md) · [Docs](../README.md)
 
 # Working with me
 
@@ -13,10 +13,7 @@ Explore the published work below, or contact me to discuss an opportunity.
 
 ## Contact
 
-| Channel | Reach me |
-| --- | --- |
-| Email | [tranminhquan26012002@gmail.com](mailto:tranminhquan26012002@gmail.com) |
-| LinkedIn | [Minh Quan Tran](https://www.linkedin.com/in/mq-tran/) |
+Email and LinkedIn are listed in [Contact](../../README.md#contact).
 
 <details>
 <summary>What can I review before getting in touch?</summary>

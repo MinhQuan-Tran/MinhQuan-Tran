@@ -1,4 +1,4 @@
-[Home](../../README.md) · [Content](../README.md)
+[Home](../../README.md) · [Docs](../README.md)
 
 # Projects
 
@@ -19,4 +19,4 @@ Explore what I have built, my contribution, and the evidence behind each project
 
 Project descriptions are based on my published profile. Follow the linked repositories for implementation evidence; the case study identifies details that have not yet been documented.
 
-Last reviewed: 2026-10-22. See the [content index](../README.md) for review and source conventions.
+Last reviewed: 2026-10-22. See the [docs index](../README.md) for review and source conventions.

@@ -1,4 +1,4 @@
-[Home](../../README.md) · [Content](../README.md)
+[Home](../../README.md) · [Docs](../README.md)
 
 # Experience
 
@@ -26,7 +26,7 @@ The experience currently documented in this repository is a personal project. Em
 
 Employers, job titles, employment dates, and professional responsibilities are not documented in the current profile. Project experience should not be used to infer a period of paid employment.
 
-For questions about my background or opportunities, [contact me](../working-with-me/README.md#contact).
+For questions about my background or opportunities, [contact me](../../README.md#contact).
 
 ## Related pages
 
@@ -36,4 +36,4 @@ For questions about my background or opportunities, [contact me](../working-with
 | Background and interests | [About](../about/README.md) |
 | Collaboration and opportunities | [Working with me](../working-with-me/README.md) |
 
-Last reviewed: 2026-10-22. See the [content index](../README.md) for review and source conventions.
+Last reviewed: 2026-10-22. See the [docs index](../README.md) for review and source conventions.

@@ -1,4 +1,4 @@
-[Home](../../README.md) · [Content](../README.md)
+[Home](../../README.md) · [Docs](../README.md)
 
 # Frequently asked questions
 
@@ -23,7 +23,7 @@ Start with the [experience overview](../experience/README.md) and [ShiftPay case
 <details>
 <summary>Is Minh Quan available for a role or collaboration?</summary>
 
-Current availability and preferred roles have not yet been documented. Check [Working with me](../working-with-me/README.md) and [contact Minh Quan](../working-with-me/README.md#contact) to discuss a specific opportunity.
+Current availability and preferred roles have not yet been documented. Check [Working with me](../working-with-me/README.md) and [contact Minh Quan](../../README.md#contact) to discuss a specific opportunity.
 
 </details>
 
@@ -55,14 +55,14 @@ The earlier profile listed Vue 3 patterns, Pinia best practices, and ASP.NET Web
 <details>
 <summary>How does Minh Quan prefer to collaborate?</summary>
 
-Specific collaboration preferences have not yet been documented. [Working with me](../working-with-me/README.md) is the source for those preferences as they are added; [contact him](../working-with-me/README.md#contact) to discuss how you would work together.
+Specific collaboration preferences have not yet been documented. [Working with me](../working-with-me/README.md) is the source for those preferences as they are added; [contact him](../../README.md#contact) to discuss how you would work together.
 
 </details>
 
 <details>
 <summary>How can I get in touch?</summary>
 
-Use the email or LinkedIn link in [Contact](../working-with-me/README.md#contact).
+Use the email or LinkedIn link in [Contact](../../README.md#contact).
 
 </details>
 
@@ -84,4 +84,4 @@ Those details have not yet been documented. [About](../about/README.md) is the s
 
 ---
 
-Last reviewed: 2026-10-22. See the [content index](../README.md) for how source review dates are used.
+Last reviewed: 2026-10-22. See the [docs index](../README.md) for how source review dates are used.

@@ -1,4 +1,4 @@
-[Home](../../README.md) · [Content](../README.md) · [Maintaining](README.md)
+[Home](../../README.md) · [Docs](../README.md) · [Maintaining](README.md)
 
 # Owner interview
 
@@ -17,7 +17,7 @@
 Help me maintain my personal knowledge base:
 https://github.com/MinhQuan-Tran/MinhQuan-Tran
 
-I am Minh Quan Tran. Start with the root README and content index,
+I am Minh Quan Tran. Start with the root README and docs index,
 then read the existing factual pages and maintaining guidance.
 Treat templates as authoring aids, never as facts about me.
 Tell me which files you could not access before relying on them.
@@ -45,7 +45,7 @@ new pages only when a topic needs its own explanation. Keep FAQ
 answers concise and link them to the detailed source pages.
 
 List the proposed file changes and their reasons. Update section
-indexes, the complete content index, parent links, and review dates
+indexes, the complete docs index, parent links, and review dates
 when needed. State explicit dates for changing information.
 
 Keep unanswered questions and uncertain facts as follow-up items

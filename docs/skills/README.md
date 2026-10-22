@@ -1,4 +1,4 @@
-[Home](../../README.md) · [Content](../README.md)
+[Home](../../README.md) · [Docs](../README.md)
 
 # Skills
 
@@ -41,6 +41,6 @@ Source: [the previous profile's introduction and tech stack](https://github.com/
 |---|---|
 | Work I have built | [Projects](../projects/README.md) |
 | Project and employment context | [Experience](../experience/README.md) |
-| Ask about a skill | [Contact](../working-with-me/README.md#contact) |
+| Ask about a skill | [Contact](../../README.md#contact) |
 
-Last reviewed: 2026-10-22. See the [content index](../README.md) for review and source conventions.
+Last reviewed: 2026-10-22. See the [docs index](../README.md) for review and source conventions.

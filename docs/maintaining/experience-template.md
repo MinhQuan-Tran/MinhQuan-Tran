@@ -1,15 +1,15 @@
-[Home](../../README.md) · [Content](../README.md) · [Maintaining](README.md)
+[Home](../../README.md) · [Docs](../README.md) · [Maintaining](README.md)
 
 # Experience template
 
 **Template only.** Placeholder fields below are not employment history or other biographical evidence.
 
-Copy the block to `content/experience/role-slug.md`. Replace all uppercase fields with confirmed information and remove unused fields. Identify whether this was employment, volunteering, study, or another kind of experience; personal projects should not imply employment.
+Copy the block to `docs/experience/role-slug.md`. Replace all uppercase fields with confirmed information and remove unused fields. Identify whether this was employment, volunteering, study, or another kind of experience; personal projects should not imply employment.
 
-The breadcrumbs below fit that destination. Adjust them if you choose a different depth. Add the page to the chronological table in the [experience index](../experience/README.md) and to the [complete content index](../README.md). If several related pages need a folder, give that folder a README too.
+The breadcrumbs below fit that destination. Adjust them if you choose a different depth. Add the page to the chronological table in the [experience index](../experience/README.md) and to the [complete docs index](../README.md). If several related pages need a folder, give that folder a README too.
 
 ````markdown
-[Home](../../README.md) · [Content](../README.md) · [Experience](README.md)
+[Home](../../README.md) · [Docs](../README.md) · [Experience](README.md)
 
 # ROLE_OR_EXPERIENCE_TITLE
 

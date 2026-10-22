@@ -1,5 +1,8 @@
 # Hi, I'm Minh Quan Tran 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-minhquantran-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mq-tran/)
+[![Email](https://img.shields.io/badge/Email-tranminhquan26012002%40gmail.com-red?logo=gmail&logoColor=white)](mailto:tranminhquan26012002@gmail.com)
+
 There is no single, simple response to "Tell me about yourself". That's why I created this repository—to let you ask your AI about me directly.
 
 ## Ask your AI about me
@@ -13,8 +16,8 @@ Copy the prompt below into an AI that can open GitHub links. If yours cannot, **
 Help me learn about Minh Quan Tran using his public repository:
 https://github.com/MinhQuan-Tran/MinhQuan-Tran
 
-Start with the content index:
-https://github.com/MinhQuan-Tran/MinhQuan-Tran/blob/main/content/README.md
+Start with the docs index:
+https://github.com/MinhQuan-Tran/MinhQuan-Tran/blob/main/docs/README.md
 
 Read the relevant section READMEs and linked detail pages.
 
@@ -42,9 +45,12 @@ The prompt guides your AI to the sources; automatic discovery or a complete scan
 
 | I want to… | Start here |
 | --- | --- |
-| Get to know Minh Quan | [About](https://github.com/MinhQuan-Tran/MinhQuan-Tran/blob/main/content/about/README.md) |
-| Explore his work | [Experience](https://github.com/MinhQuan-Tran/MinhQuan-Tran/blob/main/content/experience/README.md) · [Projects](https://github.com/MinhQuan-Tran/MinhQuan-Tran/blob/main/content/projects/README.md) · [Skills](https://github.com/MinhQuan-Tran/MinhQuan-Tran/blob/main/content/skills/README.md) |
-| Consider working together | [Working with me](https://github.com/MinhQuan-Tran/MinhQuan-Tran/blob/main/content/working-with-me/README.md) |
-| Find a specific answer | [FAQ](https://github.com/MinhQuan-Tran/MinhQuan-Tran/blob/main/content/faq/README.md) · [Full content index](https://github.com/MinhQuan-Tran/MinhQuan-Tran/blob/main/content/README.md) |
+| Get to know Minh Quan | [About](docs/about/README.md) |
+| Explore his work | [Experience](docs/experience/README.md) · [Projects](docs/projects/README.md) · [Skills](docs/skills/README.md) |
+| Consider working together | [Working with me](docs/working-with-me/README.md) |
+| Find a specific answer | [FAQ](docs/faq/README.md) · [Full index](docs/README.md) |
 
-**Get in touch → [Contact](https://github.com/MinhQuan-Tran/MinhQuan-Tran/blob/main/content/working-with-me/README.md#contact)**
+## Contact
+
+- 🔗 LinkedIn: [linkedin.com/in/mq-tran](https://www.linkedin.com/in/mq-tran/)
+- 📧 Email: [tranminhquan26012002@gmail.com](mailto:tranminhquan26012002@gmail.com)
